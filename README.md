@@ -21,8 +21,8 @@ Atualmente estou aprendendo **Ruby** e criando projetos para praticar 🚀
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloCesar-hub&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCesar-hub&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
