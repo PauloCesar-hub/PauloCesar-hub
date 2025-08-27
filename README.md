@@ -9,7 +9,7 @@ Atualmente estou aprendendo **Ruby** e criando projetos para praticar 🚀
 <p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,js,c,raspberrypi,ruby,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,python,js,c,raspberrypi,ruby,arduino,react" />
   </a>
 </p>
 </p>
