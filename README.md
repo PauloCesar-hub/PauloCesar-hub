@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Paulo Cesar 
 
 Sou apaixonado por tecnologia e desenvolvimento, com foco em **Python**, **JavaScript** e **Back-end**.  
-Atualmente estou aprendendo **Ruby** e criando projetos para praticar 🚀  
 
 ---
 
