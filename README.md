@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Paulo Cesar 
 
 Sou apaixonado por tecnologia e desenvolvimento, com foco em **Python**, **JavaScript** e **Back-end**.  
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ---
 
 ## 💻 Tecnologias & Habilidades
