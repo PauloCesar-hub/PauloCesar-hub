@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Paulo Cesar 
 
-Sou apaixonado por tecnologia e desenvolvimento, com foco em **Python**, **JavaScript** e **Back-end**.  
+Sou apaixonado por tecnologia e desenvolvimento, com foco em **C++/C#**, **Java** e **Python**.  
 ---
 
 ## 💻 Tecnologias & Habilidades
