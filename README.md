@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e desenvolvimento, com foco em **C++/C#**, **Java*
 <p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,js,c,raspberrypi,ruby,arduino,react,vite,,swift,java,c#" />
+    <img src="https://skillicons.dev/icons?i=git,python,js,c,raspberrypi,ruby,arduino,react,vite,docker,swift,java,c#" />
   </a>
 </p>
 </p>
