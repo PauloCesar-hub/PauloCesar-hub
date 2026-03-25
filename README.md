@@ -12,7 +12,7 @@
 🚀 Passionate about **Backend Development, IoT, and Fullstack Applications**  
 📚 Constantly learning and exploring new technologies  
 
-- 🔭 Currently working on **IoT & Smart Systems projects**  
+- 🔭 Currently working on **Java back-end development**  
 - 🌱 Improving skills in **Cloud, APIs, and System Design**  
 - ⚡ Strong problem-solving mindset  
 
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,react,spring,docker,mysql,mongodb,sqlite,arduino,raspberrypi,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,react,spring,docker,mysql,mongodb,sqlite,git" />
 </p>
 
 ---
