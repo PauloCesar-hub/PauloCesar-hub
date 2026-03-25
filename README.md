@@ -72,12 +72,15 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements & Highlights  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PauloCesar-hub&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PauloCesar-hub&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloCesar-hub&theme=tokyonight"/>
+</p>
 ---
 
 ## 🌐 Connect with Me  
