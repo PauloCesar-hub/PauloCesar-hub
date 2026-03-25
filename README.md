@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Paulo Cesar  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%7C+IoT+%7C+Fullstack;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%7C+Java+%7C+Fullstack;Always+Learning+New+Technologies" />
 </p>
 
 ---
